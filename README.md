@@ -1,16 +1,22 @@
-# april_2_local_push_notification_ii
+# Local Push Notification II
+Create local push notifications for your Flutter application on Android & iOS.
 
-A new Flutter project.
+Twitter: [@JohannesMilke](https://twitter.com/JohannesMilke "Twitter Johannes Milke")
 
-## Getting Started
+Facebook: [Johannes.Milke.37](https://www.facebook.com/johannes.milke.37 "Facebook Johannes Milke")
 
-This project is a starting point for a Flutter application.
+Medium: [@JohannesMilke](https://medium.com/@johannesmilke  "Flutter Articles of Johannes Milke")
 
-A few resources to get you started if this is your first Flutter project:
+:dizzy: [App Live preview](https://www.instagram.com/p/BwNOaz2g2Rh/ "Live preview on Instagram") :dizzy:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+##### [YouTube video](https://www.youtube.com/watch?v=lVDO58jCiCo "Youtube Johannes Milke") where the *source code* is explained. :mortar_board: [Subscribe to our YouTube channel.](http://www.youtube.com/channel/UC0FD2apauvegCcsvqIBceLA?sub_confirmation=1 "YouTube Subscribe Johannes Milke") :thumbsup:  
+<a href="https://www.youtube.com/watch?v=lVDO58jCiCo&feature=player_embedded
+" target="_blank"><img src="http://img.youtube.com/vi/lVDO58jCiCo/maxresdefault.jpg" 
+alt="Local Push Notification II YouTube video" width="480" height="270" border="10" /></a>
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+#### All my Flutter projects --> [View on Instagram](https://www.instagram.com/johannesmilke/ "My Flutter projects")
+
+#### If you are new to Flutter and want to get started --> [Install Flutter](https://flutter.io/docs/get-started/install "Get started with Flutter").
+
+
+Feel free to reach out to me through email at milke.johannes@gmail.com if you have any questions or feedback! :blush:
